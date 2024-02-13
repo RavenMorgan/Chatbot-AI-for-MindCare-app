@@ -8,3 +8,5 @@ GPT-3.5 brings a vast language understanding and generation capability to the ch
 allowing it to provide nuanced insights, coping strategies, and therapeutic interventions.
 ![image](https://github.com/RavenMorgan/Chatbot-AI-for-MindCare-app/assets/93053186/601bfc04-5397-4a5e-81cc-519b482b07ba)
 
+# le fichjier ChatAPP rar contient le code de chatbot en utilisant l'open AI key API 
+
